@@ -13,7 +13,7 @@ git add .
 git commit -m "Initial commit: Project setup"
 
 # Add remote repository
-git remote add origin https://github.com/yourusername/react-class-components-game.git
+git remote add origin https://github.com/PasperFection/Learn2React.git
 
 # Push to main branch
 git push -u origin main
