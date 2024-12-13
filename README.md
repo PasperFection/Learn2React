@@ -1,4 +1,4 @@
-# React Class Components Learning Game 🎮
+# Learn2React | React Class Components Learning Game 🎮
 
 An interactive learning platform to master React Class Components through gamified challenges and exercises.
 
@@ -23,7 +23,7 @@ An interactive learning platform to master React Class Components through gamifi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-class-components-game.git
+git clone https://github.com/PasperFection/Learn2React.git
 ```
 
 2. Install dependencies:
